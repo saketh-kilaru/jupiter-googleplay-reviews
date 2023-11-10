@@ -10,7 +10,7 @@ This document outlines the analysis of Google Play reviews for the Jupiter app o
 
 Code Overview
 
-The analysis is conducted using a Python script (`topic_modelling.py`). The following libraries and tools are utilised:
+The analysis is conducted using a Python script (`main.py`). The following libraries and tools are utilised:
 
 - `google_play_scraper` for fetching Google Play reviews.
 - `pandas` for data manipulation and analysis.
